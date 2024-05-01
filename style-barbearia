@@ -1,0 +1,32 @@
+body{
+	background: #cccccc
+ }
+
+#file:///C:/Users/mara1/OneDrive/%C3%81rea%20de%20Trabalho/Barbearia%20Alura/imagem%20barbearia.avif{
+  width: 100%;
+}
+
+ h1 {
+     "text-align:center
+
+}
+
+ p{
+    text-align:center;
+ }
+ 
+ #missao {
+      font-size: 20px
+ }
+em strong{
+	color: #FF0000;
+}
+.itens {
+  font-style: italic;
+
+}
+
+.Beneficios{
+
+	background: #FFFFFF;
+}
